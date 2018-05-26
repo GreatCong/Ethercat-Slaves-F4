@@ -1,6 +1,6 @@
 # Ethercat  Slaves
 
-## #Hardware
+## Hardware
 
 * LAN9252
 * STM32 F4
